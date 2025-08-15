@@ -1,2 +1,2 @@
 # prog1-equipo-0X.
-trabajo en quipo
+trabajo en equipo
